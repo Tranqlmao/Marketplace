@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: 20
 
-      - run: node .github/scripts/build-packs.mjs
+      - run: node .github/workflows/build-packs.mjs
 
       - name: Commit packs.json if it changed
         run: |
