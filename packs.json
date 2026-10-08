@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "1.20 Skin Pack",
+      "title": "1.20 Skin Pack",
+      "description": "Newest Characters From Your Favorite Game!",
+      "zip": "1.20 Skin Pack.zip",
+      "image": "1.20 Skin Pack.png",
+      "sha": "ee67c6b41f43171ea6415617e5b4b5ae1cc0eabd",
+      "size": 182575
+    },
+    {
+      "id": "Mario Mashup",
+      "title": "Mario Mashup Pack",
+      "description": "Made by dydymiku, this mashup brings the look and characters from Mario into your Minecraft world",
+      "zip": "Mario Mashup.zip",
+      "image": "Mario Mashup.png",
+      "sha": "e487e4629baf6ce444860ee5afa78549466c99b8",
+      "size": 22013476
+    }
+  ]
+}
