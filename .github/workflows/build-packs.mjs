@@ -12,7 +12,7 @@ function stem(name) {
 }
 
 // Pack ids become folder names, so keep them to safe characters.
-const validId = (id) => id && id !== "." && id !== ".." && /^[\p{L}\p{N} ._\-+()[\]]+$/u.test(id);
+const validId = (id) => id && id !== "." && id !== ".." && /^[\p{L}\p{N} ._\-+()[\]'&!,#@=~]+$/u.test(id);
 
 // GitHub titles rename commits "Rename a.zip to b.zip".
 function renamedTo(title) {
