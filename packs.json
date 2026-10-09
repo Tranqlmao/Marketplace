@@ -21,12 +21,21 @@
     },
     {
       "id": "Miku's Modules +",
-      "title": "Miku's Modules +",
-      "description": "A 3D Hatsune Miku Skin Pack that has a great goal: bringing all the Project Diva modules back into Legacy Console Edition, made solo by an autistic lover of Hatsune Miku. Made in France :)",
+      "title": "Adding Miku's Modules +, along with Teto Variants",
+      "description": "adding my Miku and Teto skin packs, along with a new thumbnail for Teto Variants",
       "zip": "Miku's Modules +.zip",
       "image": "Miku's Modules +.png",
       "sha": "d0d4fe597b7672fefd14b148afccf51405e38886",
       "size": 180985
+    },
+    {
+      "id": "Teto Variants",
+      "title": "Teto Variants",
+      "description": "A 3D Kasane Teto Skin Pack that's taking all the differents variations of our sweet, lovely baguette lover! (V2.0.0 coming soon, WIP)",
+      "zip": "Teto Variants.zip",
+      "image": "Teto Variants.png",
+      "sha": "71074b61323f6c3435018baceea8f0f09a5185f6",
+      "size": 34295
     }
   ]
 }
